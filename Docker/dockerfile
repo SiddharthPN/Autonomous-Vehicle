@@ -1,0 +1,11 @@
+# Base Image: ROS2 Humble
+FROM ros:humble
+
+# Maintainer
+LABEL maintainer = "Siddharth Palani Natarajan <pnsiddharth8@gmail.com>"
+
+# Updating and Upgrading packages
+RUN apt update && apt upgrade -y
+
+# Installing vim and tmux
+RUN apt install vim -y && apt install tmux -y

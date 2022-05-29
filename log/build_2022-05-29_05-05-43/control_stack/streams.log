@@ -1,0 +1,35 @@
+[0.388s] Invoking command in '/tmp/Desktop/ROS2/autonomy_stack/src/control_stack': PYTHONPATH=/tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_stack build --build-base /tmp/Desktop/ROS2/build/control_stack/build install --prefix /tmp/Desktop/ROS2/install/control_stack --record /tmp/Desktop/ROS2/build/control_stack/install.log --single-version-externally-managed
+[0.485s] running egg_info
+[0.488s] creating ../../../build/control_stack/control_stack.egg-info
+[0.493s] writing ../../../build/control_stack/control_stack.egg-info/PKG-INFO
+[0.500s] writing dependency_links to ../../../build/control_stack/control_stack.egg-info/dependency_links.txt
+[0.504s] writing entry points to ../../../build/control_stack/control_stack.egg-info/entry_points.txt
+[0.508s] writing requirements to ../../../build/control_stack/control_stack.egg-info/requires.txt
+[0.511s] writing top-level names to ../../../build/control_stack/control_stack.egg-info/top_level.txt
+[0.520s] writing manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.536s] reading manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.545s] writing manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.548s] running build
+[0.550s] running build_py
+[0.553s] creating /tmp/Desktop/ROS2/build/control_stack/build
+[0.556s] creating /tmp/Desktop/ROS2/build/control_stack/build/lib
+[0.559s] creating /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack
+[0.563s] copying control_stack/__init__.py -> /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack
+[0.569s] running install
+[0.571s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.573s]   warnings.warn(
+[0.576s] running install_lib
+[0.580s] creating /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack
+[0.583s] copying /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack/__init__.py -> /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack
+[0.593s] byte-compiling /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack/__init__.py to __init__.cpython-310.pyc
+[0.607s] running install_data
+[0.610s] creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index
+[0.612s] creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index
+[0.615s] creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index/packages
+[0.618s] copying resource/control_stack -> /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index/packages
+[0.628s] copying package.xml -> /tmp/Desktop/ROS2/install/control_stack/share/control_stack
+[0.634s] running install_egg_info
+[0.639s] Copying ../../../build/control_stack/control_stack.egg-info to /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack-0.0.0-py3.10.egg-info
+[0.714s] running install_scripts
+[0.732s] writing list of installed files to '/tmp/Desktop/ROS2/build/control_stack/install.log'
+[0.749s] Invoked command in '/tmp/Desktop/ROS2/autonomy_stack/src/control_stack' returned '0': PYTHONPATH=/tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_stack build --build-base /tmp/Desktop/ROS2/build/control_stack/build install --prefix /tmp/Desktop/ROS2/install/control_stack --record /tmp/Desktop/ROS2/build/control_stack/install.log --single-version-externally-managed

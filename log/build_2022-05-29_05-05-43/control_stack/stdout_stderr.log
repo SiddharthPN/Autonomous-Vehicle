@@ -1,0 +1,33 @@
+running egg_info
+creating ../../../build/control_stack/control_stack.egg-info
+writing ../../../build/control_stack/control_stack.egg-info/PKG-INFO
+writing dependency_links to ../../../build/control_stack/control_stack.egg-info/dependency_links.txt
+writing entry points to ../../../build/control_stack/control_stack.egg-info/entry_points.txt
+writing requirements to ../../../build/control_stack/control_stack.egg-info/requires.txt
+writing top-level names to ../../../build/control_stack/control_stack.egg-info/top_level.txt
+writing manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+reading manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+writing manifest file '../../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /tmp/Desktop/ROS2/build/control_stack/build
+creating /tmp/Desktop/ROS2/build/control_stack/build/lib
+creating /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack
+copying control_stack/__init__.py -> /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack
+copying /tmp/Desktop/ROS2/build/control_stack/build/lib/control_stack/__init__.py -> /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack
+byte-compiling /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index
+creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index
+creating /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index/packages
+copying resource/control_stack -> /tmp/Desktop/ROS2/install/control_stack/share/ament_index/resource_index/packages
+copying package.xml -> /tmp/Desktop/ROS2/install/control_stack/share/control_stack
+running install_egg_info
+Copying ../../../build/control_stack/control_stack.egg-info to /tmp/Desktop/ROS2/install/control_stack/lib/python3.10/site-packages/control_stack-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/tmp/Desktop/ROS2/build/control_stack/install.log'
