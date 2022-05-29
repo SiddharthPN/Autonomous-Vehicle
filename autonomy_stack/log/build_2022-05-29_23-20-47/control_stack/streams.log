@@ -1,0 +1,35 @@
+[0.343s] Invoking command in '/tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/src/control_stack': PYTHONPATH=/tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_stack build --build-base /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build install --prefix /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack --record /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/install.log --single-version-externally-managed
+[0.427s] running egg_info
+[0.430s] creating ../../build/control_stack/control_stack.egg-info
+[0.433s] writing ../../build/control_stack/control_stack.egg-info/PKG-INFO
+[0.440s] writing dependency_links to ../../build/control_stack/control_stack.egg-info/dependency_links.txt
+[0.444s] writing entry points to ../../build/control_stack/control_stack.egg-info/entry_points.txt
+[0.449s] writing requirements to ../../build/control_stack/control_stack.egg-info/requires.txt
+[0.453s] writing top-level names to ../../build/control_stack/control_stack.egg-info/top_level.txt
+[0.458s] writing manifest file '../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.473s] reading manifest file '../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.482s] writing manifest file '../../build/control_stack/control_stack.egg-info/SOURCES.txt'
+[0.485s] running build
+[0.488s] running build_py
+[0.490s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build
+[0.494s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build/lib
+[0.497s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build/lib/control_stack
+[0.501s] copying control_stack/__init__.py -> /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build/lib/control_stack
+[0.506s] running install
+[0.509s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.514s]   warnings.warn(
+[0.517s] running install_lib
+[0.520s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages/control_stack
+[0.523s] copying /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build/lib/control_stack/__init__.py -> /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages/control_stack
+[0.530s] byte-compiling /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages/control_stack/__init__.py to __init__.cpython-310.pyc
+[0.541s] running install_data
+[0.543s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/share/ament_index
+[0.546s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/share/ament_index/resource_index
+[0.549s] creating /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/share/ament_index/resource_index/packages
+[0.552s] copying resource/control_stack -> /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/share/ament_index/resource_index/packages
+[0.560s] copying package.xml -> /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/share/control_stack
+[0.567s] running install_egg_info
+[0.571s] Copying ../../build/control_stack/control_stack.egg-info to /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages/control_stack-0.0.0-py3.10.egg-info
+[0.643s] running install_scripts
+[0.658s] writing list of installed files to '/tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/install.log'
+[0.675s] Invoked command in '/tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/src/control_stack' returned '0': PYTHONPATH=/tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/control_stack build --build-base /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/build install --prefix /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/install/control_stack --record /tmp/GitHub-Repositories/Autonomous-Vehicle/autonomy_stack/build/control_stack/install.log --single-version-externally-managed
